@@ -1,4 +1,4 @@
-package ambit2.pharmacophore.test;
+package pu.hnmr.test;
 
 
 public class TestUtils {
